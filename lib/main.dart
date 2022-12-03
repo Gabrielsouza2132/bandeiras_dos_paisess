@@ -79,7 +79,7 @@ class _CorpoBandeirasState extends State<CorpoBandeiras> {
     'bw': 'Botsuana',
     'by': 'Belarus',
     'bz': 'Belize',
-    'ca': 'Canadá',
+    'ca': 'Canadá ',
     'cc': 'Ilhas Cocos',
     'cd': 'República Democrática do Congo',
     'cf': 'República Centro-Africana',
